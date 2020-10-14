@@ -1,0 +1,192 @@
+[{
+    "categoria_URL": "https://www.igti.com.br/blog/category/development/",
+    "categoria_artigo": "DEVELOPMENT",
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "13 de junho de 2018",
+    "titulo_artigo": "O que faz um Desenvolvedor Full Stack?",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/o-que-faz-um-desenvolvedor-full-stack/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "39.963 visualizações"
+},
+{
+    "categoria_URL": "https://www.igti.com.br/blog/category/data-science/",
+    "categoria_artigo": "DATA SCIENCE",
+    "comentarios_artigo": "7 comentários",
+    "dtPostagem_artigo": "12 de abril de 2017",
+    "titulo_artigo": "Cientista de Dados: o novo profissional que o mercado procura",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/carreira-ti-big-data/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "34.684 visualizações"
+},
+{
+    "categoria_URL": "https://www.igti.com.br/blog/category/development/",
+    "categoria_artigo": "DEVELOPMENT",
+    "comentarios_artigo": "2 comentários",
+    "dtPostagem_artigo": "22 de novembro de 2017",
+    "titulo_artigo": "5 motivos para você aprender SQL",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/5-motivos-para-voce-aprender-sql/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "29.820 visualizações"
+},
+{
+    "categoria_URL": "https://www.igti.com.br/blog/category/inteligencia-artificial/",
+    "categoria_artigo": "INTELIGÊNCIA ARTIFICIAL",
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "10 de julho de 2017",
+    "titulo_artigo": "A carreira dos profissionais de Ciência de Dados, Engenharia de Dados e Machine Learning",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/carreira-big-data-engenharia-dados-machine-learning/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "27.971 visualizações"
+},
+{
+    "categoria_URL": "https://www.igti.com.br/blog/category/data-analytics/",
+    "categoria_artigo": "DATA ANALYTICS",
+    "comentarios_artigo": "8 comentários",
+    "dtPostagem_artigo": "4 de maio de 2017",
+    "titulo_artigo": "A carreira de um Analista de Business Intelligence",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/carreira-inteligencia-negocios/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "27.384 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/inteligencia-artificial/",
+        "https://www.igti.com.br/blog/category/webinar/"
+    ],
+    "categoria_artigo": [
+        "INTELIGÊNCIA ARTIFICIAL",
+        "Webinar"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "7 horas atrás",
+    "titulo_artigo": "Algoritmos não-supervisionados: Segmentação de Clientes",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/algoritmos-nao-supervisionados-segmentacao-de-clientes/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "9 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/development/",
+        "https://www.igti.com.br/blog/category/webinar/"
+    ],
+    "categoria_artigo": [
+        "DEVELOPMENT",
+        "Webinar"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "5 dias atrás",
+    "titulo_artigo": "Front End: Qual a melhor ferramenta?",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/front-end-qual-a-melhor-ferramenta/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "48 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/data-science/",
+        "https://www.igti.com.br/blog/category/data-universe/"
+    ],
+    "categoria_artigo": [
+        "DATA SCIENCE",
+        "Data Universe"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "3 semanas atrás",
+    "titulo_artigo": "Indústria 4.0: Empreendedorismo, Big Data e Inteligência Artificial",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/industria-4-0-empreendedorismo-big-data-e-inteligencia-artificial/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "190 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/data-science/",
+        "https://www.igti.com.br/blog/category/data-universe/"
+    ],
+    "categoria_artigo": [
+        "DATA SCIENCE",
+        "Data Universe"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "3 semanas atrás",
+    "titulo_artigo": "Como Falar Melhor em Apresentação de Dados",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/como-falar-melhor-em-apresentacao-de-dados/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "60 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/cloud-computing/",
+        "https://www.igti.com.br/blog/category/webinar/"
+    ],
+    "categoria_artigo": [
+        "CLOUD COMPUTING",
+        "Webinar"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "3 semanas atrás",
+    "titulo_artigo": "Profissional de Cloud Computing: uma carreira de futuro!",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/profissional-de-cloud-computing-uma-carreira-de-futuro/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "200 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/data-universe/",
+        "https://www.igti.com.br/blog/category/igti-na-midia/"
+    ],
+    "categoria_artigo": [
+        "Data Universe",
+        "IGTI NA MÍDIA"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "3 semanas atrás",
+    "titulo_artigo": "Data Universe",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/data-universe/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "77 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/data-science/",
+        "https://www.igti.com.br/blog/category/data-universe/"
+    ],
+    "categoria_artigo": [
+        "DATA SCIENCE",
+        "Data Universe"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "4 semanas atrás",
+    "titulo_artigo": "Como transformar as organizações para serem orientadas a dados",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/como-transformar-as-organizacoes-para-serem-orientadas-a-dados/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "42 visualizações"
+},
+{
+    "categoria_URL": [
+        "https://www.igti.com.br/blog/category/agile/",
+        "https://www.igti.com.br/blog/category/webinar/"
+    ],
+    "categoria_artigo": [
+        "AGILE",
+        "Webinar"
+    ],
+    "comentarios_artigo": "0 comentários",
+    "dtPostagem_artigo": "4 semanas atrás",
+    "titulo_artigo": "Framework Ágil",
+    "titulo_pagina": " IGTI Blog",
+    "url_artigo": "https://www.igti.com.br/blog/framework-agil/",
+    "url_pagina": "https://www.igti.com.br/blog/",
+    "visualizacoes_artigo": "67 visualizações"
+},
+]
